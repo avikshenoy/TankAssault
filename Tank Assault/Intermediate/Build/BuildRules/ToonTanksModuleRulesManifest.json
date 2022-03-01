@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Avik Shenoy\\OneDrive\\Desktop\\Unreal Engine Course Games\\ToonTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"C:\\Users\\Avik Shenoy\\OneDrive\\Desktop\\Unreal Engine Course Games\\ToonTanks\\Source\\ToonTanks.Target.cs",
+		"C:\\Users\\Avik Shenoy\\OneDrive\\Desktop\\Unreal Engine Course Games\\ToonTanks\\Source\\ToonTanksEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

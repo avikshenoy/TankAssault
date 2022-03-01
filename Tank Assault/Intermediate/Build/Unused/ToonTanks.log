@@ -1,0 +1,24 @@
+﻿  Cleaning ToonTanksEditor and UnrealHeaderTool binaries...
+  Creating makefile for ToonTanksEditor (no existing makefile)
+  Parsing headers for ToonTanksEditor
+    Running UnrealHeaderTool "C:\Users\Avik Shenoy\OneDrive\Desktop\Unreal Engine Course Games\ToonTanks\ToonTanks.uproject" "C:\Users\Avik Shenoy\OneDrive\Desktop\Unreal Engine Course Games\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Avik Shenoy\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for ToonTanksEditor in 3.8254469 seconds
+  Building ToonTanksEditor...
+  Using Visual Studio 2019 14.29.30139 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 11 actions with 16 processes...
+    [1/11] Default.rc2
+    [2/11] SharedPCH.Engine.ShadowErrors.cpp
+    [3/11] ToonTanks.cpp
+    [4/11] BasePawn.cpp
+    [5/11] Tank.cpp
+    [6/11] ToonTanks.init.gen.cpp
+    [7/11] BasePawn.gen.cpp
+    [8/11] Tank.gen.cpp
+    [9/11] UE4Editor-ToonTanks.lib
+       Creating library C:\Users\Avik Shenoy\OneDrive\Desktop\Unreal Engine Course Games\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.lib and object C:\Users\Avik Shenoy\OneDrive\Desktop\Unreal Engine Course Games\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.exp
+    [10/11] UE4Editor-ToonTanks.dll
+       Creating library C:\Users\Avik Shenoy\OneDrive\Desktop\Unreal Engine Course Games\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.suppressed.lib and object C:\Users\Avik Shenoy\OneDrive\Desktop\Unreal Engine Course Games\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.suppressed.exp
+    [11/11] ToonTanksEditor.target
+  Total time in Parallel executor: 21.92 seconds
+  Total execution time: 35.20 seconds
